@@ -1238,9 +1238,11 @@ label.checkbox {
 }
 #layers > .drawer.layer-group .drawer.layer-view {
   background: var(--color-light);
+  margin-top: 0px;
+  padding: 7px 0;
   border: none;
-  box-shadow: none;
   border-top: 2px solid var(--color-light-secondary);
+  box-shadow: none;
 }
 #layers > .layer-view > .drawer,
 #layers .drawer.layer-view .drawer {
